@@ -290,11 +290,11 @@ section.footer .container a:last-child {
   margin-right: 0;
 }
 section.footer .container a:hover {
-  opacity: 0.8;
+  opacity: 1.0;
 }
 section.footer .container a .icon {
-  width: 16px;
-  height: 16px;
+  width: 18px;
+  height: 18px;
 }
 section.footer .container .copyright {
   flex-grow: 0.5;
