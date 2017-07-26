@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>yottabytt</title>
-    <link>http://yottabytt.com/</link>
-    <description>Recent content on yottabytt</description>
+    <title>Bytts on yottabytt</title>
+    <link>http://yottabytt.com/bytts/</link>
+    <description>Recent content in Bytts on yottabytt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://yottabytt.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yottabytt.com/bytts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,24 +30,6 @@ Gist Multiple topics are assigned to a document based on the topics of similar d
       <guid>http://yottabytt.com/bytts/about/how_the_bytts_are_categorized/</guid>
       <description>As of now, I have planned to present four kinds of bytts. They are, 
  Paper Bytts - Brief summaries of my learnings after reading research papers. Code Bytts - Solution Programs and Experimentation programs to a wide variety of CS problems. Topic Bytts - Explanation of some of the topics in CS that I am interested in. Random Bytts - Things that are related to CS but does not fall in the above categories.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://yottabytt.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://yottabytt.com/about/</guid>
-      <description>Hugely inspired by Julia Evans and her writings, I am trying to represent my learnings through my bytts. Primarily, the purpose is just to compile my learnings in a single place. Do read out the bytts that interests you.</description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>http://yottabytt.com/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://yottabytt.com/home/</guid>
-      <description>Computer Science is a vast vaaaast and an awesome aweeeesome area of study. I am interested in many of the domains that it offers. Some of the broader interest areas include Algorithms, Mathematics for Computer Science, Operating Systems, Databases, Networks, Parallel Computing, Artificial Intelligence etc., A Bytt could be a writing that explains a topic, a brief summary of a research paper, a code snippet for a problem or random experiences that are related to Computer Science in one way or the other.</description>
     </item>
     
   </channel>
