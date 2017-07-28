@@ -189,9 +189,9 @@ Score(S) = Score(Doc 3)</p>
  In the earlier methods, the text per se was indexed into Lucene. In this method, instead of the complete text, only the Noun Phrases (NP) are indexed. It is a two step process,</p>
 
 <ul>
-<li>First, for every document, NPs are extracted and the classes associated with the document are assigned to the NPs. Now, for all the NPs present in all the documents across the corpus, there would be one to many classes associated to it.</li>
+<li>First, for every document, NPs are extracted and the topics associated with the document are assigned to the NPs. Now, for all the NPs present in all the documents across the corpus, there would be one to many topics associated to it.</li>
 
-<li><p>Second, an intersection of classes for every distinctive NPs is found out, and the intersection set is assigned to the NPs. Now, all of them, the NPs and the associated classes are indexed into Lucene.</p>
+<li><p>Second, an intersection of topics for every distinctive NPs is found out, and the intersection set is assigned to the NPs. Now, all of them, the NPs and the associated topics are indexed into Lucene.</p>
 
 <blockquote>
 <ul>
@@ -206,7 +206,7 @@ Y = {topic1} and Z = {topic1, topic3}</li>
 </blockquote></li>
 </ul>
 
-<p>Now, as the index is ready, for a given input document, NPs are extracted and similar NPs are searched for in the Lucene index and their classes are attributed to the input document.</p></li>
+<p>Now, as the index is ready, for a given input document, NPs are extracted and similar NPs are searched for in the Lucene index and their topics are attributed to the input document.</p></li>
 </ol>
 
 <h4 id="result-claims">Result Claims</h4>
