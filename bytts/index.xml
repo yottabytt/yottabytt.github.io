@@ -6,15 +6,26 @@
     <description>Recent content in Bytts on yottabytt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://yottabytt.com/bytts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Topic Bytt #1 - Derivatives for backpropagation in a simple Logistic Regression Network</title>
+      <link>http://yottabytt.com/bytts/topic/bytt_1/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://yottabytt.com/bytts/topic/bytt_1/</guid>
+      <description>Assuming the readers to be aware of a logistic regression model, where-in,
+ \( z = \boldsymbol w^T\boldsymbol x + b \) is the weighted sum of the input features, where, \(\boldsymbol x\) is the feature vector \([x_1,x_2 &amp;hellip; x_n]\), \(\boldsymbol w\) is the weight vector \([w_1,w_2&amp;hellip;w_n]\) corresponding to the input features and \(b\) is the bias value.
+ \(\boldsymbol y\) is the actual output vector and \( \hat{\boldsymbol y} = a = \sigma(\boldsymbol z) = {1 \over (1+e^{-\boldsymbol z})}\) is the target output vector.</description>
+    </item>
+    
+    <item>
       <title>Paper Bytt #1 - Identifying Multiple Topics in Texts</title>
       <link>http://yottabytt.com/bytts/paper/bytt_1/</link>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://yottabytt.com/bytts/paper/bytt_1/</guid>
       <description>Here  is the link to the actual paper.

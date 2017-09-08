@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yottabytt.com/bytts/topic/bytt_1/</loc>
+    <lastmod>2017-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yottabytt.com/bytts/paper/bytt_1/</loc>
-    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -22,7 +27,7 @@
   
   <url>
     <loc>http://yottabytt.com/bytts/</loc>
-    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,19 +47,19 @@
   
   <url>
     <loc>http://yottabytt.com/tags/text-classification/</loc>
-    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://yottabytt.com/tags/text-similarity/</loc>
-    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://yottabytt.com/</loc>
-    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
