@@ -34,6 +34,16 @@ Gist Multiple topics are assigned to a document based on the topics of similar d
     </item>
     
     <item>
+      <title>How the bytts are categorized ?</title>
+      <link>http://yottabytt.com/bytts/about/how_the_bytts_are_categorized/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://yottabytt.com/bytts/about/how_the_bytts_are_categorized/</guid>
+      <description>As of now, I have planned to present four kinds of bytts. They are, 
+ Paper Bytts - Brief summaries of my learnings after reading research papers. Code Bytts - Solution programs and experimentation programs to a wide variety of CS problems. Topic Bytts - Explanation of some of the topics in CS that I am interested in. Random Bytts - Things that are related to CS but does not fall in the above categories.</description>
+    </item>
+    
+    <item>
       <title>Random Bytt #1 - Things to look for, while applying to a university for your Master&#39;s in Computer Science</title>
       <link>http://yottabytt.com/bytts/random/bytt_1/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
@@ -44,13 +54,12 @@ Ofcourse, you could be present amongst the crowd who view the universities just 
     </item>
     
     <item>
-      <title>How the bytts are categorized ?</title>
-      <link>http://yottabytt.com/bytts/about/how_the_bytts_are_categorized/</link>
+      <title>Transition from fool_01 to yottabytt !</title>
+      <link>http://yottabytt.com/bytts/about/transition_from_fool_underscore_01/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/about/how_the_bytts_are_categorized/</guid>
-      <description>As of now, I have planned to present four kinds of bytts. They are, 
- Paper Bytts - Brief summaries of my learnings after reading research papers. Code Bytts - Solution programs and experimentation programs to a wide variety of CS problems. Topic Bytts - Explanation of some of the topics in CS that I am interested in. Random Bytts - Things that are related to CS but does not fall in the above categories.</description>
+      <guid>http://yottabytt.com/bytts/about/transition_from_fool_underscore_01/</guid>
+      <description>So, till this date (July 1, 2017), I was operating in the internet as fool_01. fool_01 was the handle in all of my web profiles. Few days back, I planned to make a move to a new name which I could use uniformly across all the websites related to Computer Science and Programming in the internet. Due to the domain name issues and few other reasons, from now on, I would be visible in the internet as yottabytt.</description>
     </item>
     
   </channel>
