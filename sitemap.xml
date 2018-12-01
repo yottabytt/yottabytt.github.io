@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://yottabytt.com/bytts/bytt_bucket/first_season_kickoff/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yottabytt.com/bytts/bytt_bucket/introducing_the_challenge/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yottabytt.com/bytts/topic/simple_backprop_derivation/</loc>
     <lastmod>2017-08-25T00:00:00+00:00</lastmod>
   </url>
@@ -33,7 +43,7 @@
   
   <url>
     <loc>http://yottabytt.com/bytts/</loc>
-    <lastmod>2017-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,7 +75,7 @@
   
   <url>
     <loc>http://yottabytt.com/</loc>
-    <lastmod>2017-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
