@@ -13,10 +13,10 @@
     
     <item>
       <title>Topic Bytt #1 - Derivatives for backpropagation in a simple Logistic Regression Network</title>
-      <link>http://yottabytt.com/bytts/topic/bytt_1/</link>
+      <link>http://yottabytt.com/bytts/topic/simple_backprop_derivation/</link>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/topic/bytt_1/</guid>
+      <guid>http://yottabytt.com/bytts/topic/simple_backprop_derivation/</guid>
       <description>Assuming the readers to be aware of a logistic regression model, where-in,
  \( z = \boldsymbol w^T\boldsymbol x + b \) is the weighted sum of the input features, where, \(\boldsymbol x\) is the feature vector \([x_1,x_2 &amp;hellip; x_n]\), \(\boldsymbol w\) is the weight vector \([w_1,w_2&amp;hellip;w_n]\) corresponding to the input features and \(b\) is the bias value.
  \(\boldsymbol y\) is the actual output vector and \( \hat{\boldsymbol y} = a = \sigma(\boldsymbol z) = {1 \over (1+e^{-\boldsymbol z})}\) is the target output vector.</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Paper Bytt #1 - Identifying Multiple Topics in Texts</title>
-      <link>http://yottabytt.com/bytts/paper/bytt_1/</link>
+      <link>http://yottabytt.com/bytts/paper/identifying_multiple_topics/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/paper/bytt_1/</guid>
+      <guid>http://yottabytt.com/bytts/paper/identifying_multiple_topics/</guid>
       <description>Here  is the link to the actual paper.
 Good to know Lucene, Item-Based Collaborative Filtering, Document Similarity, Multi-label text classification.
 Gist Multiple topics are assigned to a document based on the topics of similar documents present in the corpus. The paper explains about various different approaches in the process of finding similar documents and in the selection of appropriate topics from the similar documents and assigning them to the input document.</description>
@@ -35,30 +35,30 @@ Gist Multiple topics are assigned to a document based on the topics of similar d
     
     <item>
       <title>How the bytts are categorized ?</title>
-      <link>http://yottabytt.com/bytts/about/how_the_bytts_are_categorized/</link>
+      <link>http://yottabytt.com/bytts/about/categorization_of_bytts/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/about/how_the_bytts_are_categorized/</guid>
+      <guid>http://yottabytt.com/bytts/about/categorization_of_bytts/</guid>
       <description>As of now, I have planned to present four kinds of bytts. They are, 
  Paper Bytts - Brief summaries of my learnings after reading research papers. Code Bytts - Solution programs and experimentation programs to a wide variety of CS problems. Topic Bytts - Explanation of some of the topics in CS that I am interested in. Random Bytts - Things that are related to CS but does not fall in the above categories.</description>
     </item>
     
     <item>
       <title>Random Bytt #1 - Things to look for, while applying to a university for your Master&#39;s in Computer Science</title>
-      <link>http://yottabytt.com/bytts/random/bytt_1/</link>
+      <link>http://yottabytt.com/bytts/random/applying_to_masters/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/random/bytt_1/</guid>
+      <guid>http://yottabytt.com/bytts/random/applying_to_masters/</guid>
       <description>All of the below are my personal views.
 Of course, you could be present amongst the crowd who view the universities just by their rankings. I am not at all against the rankings of the universities. But one must understand the process involved in such rankings, the criteria considered in the course of ranking and so on. Few of the criteria, may not at all be applicable to you. So on choosing your list of universities, go a level above and look out for the criteria that you wish to be a part of your destination university.</description>
     </item>
     
     <item>
       <title>Transition from fool_01 to yottabytt !</title>
-      <link>http://yottabytt.com/bytts/about/transition_from_fool_underscore_01/</link>
+      <link>http://yottabytt.com/bytts/about/transition_from_past/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/about/transition_from_fool_underscore_01/</guid>
+      <guid>http://yottabytt.com/bytts/about/transition_from_past/</guid>
       <description>So, till this date (July 1, 2017), I was operating on the Internet as fool_01. fool_01 was the handle in all of my web profiles. A few days back, I planned to make a move to a new name which I could use uniformly across all the websites related to Computer Science and Programming on the Internet. Due to the domain name issues and few other reasons, from now on, I would be visible on the Internet as yottabytt.</description>
     </item>
     

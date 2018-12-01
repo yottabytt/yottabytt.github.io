@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://yottabytt.com/bytts/topic/bytt_1/</loc>
+    <loc>http://yottabytt.com/bytts/topic/simple_backprop_derivation/</loc>
     <lastmod>2017-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yottabytt.com/bytts/paper/bytt_1/</loc>
+    <loc>http://yottabytt.com/bytts/paper/identifying_multiple_topics/</loc>
     <lastmod>2017-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yottabytt.com/bytts/about/how_the_bytts_are_categorized/</loc>
+    <loc>http://yottabytt.com/bytts/about/categorization_of_bytts/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yottabytt.com/bytts/random/bytt_1/</loc>
+    <loc>http://yottabytt.com/bytts/random/applying_to_masters/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yottabytt.com/bytts/about/transition_from_fool_underscore_01/</loc>
+    <loc>http://yottabytt.com/bytts/about/transition_from_past/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   

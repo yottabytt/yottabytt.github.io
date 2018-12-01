@@ -13,10 +13,10 @@
     
     <item>
       <title>Paper Bytt #1 - Identifying Multiple Topics in Texts</title>
-      <link>http://yottabytt.com/bytts/paper/bytt_1/</link>
+      <link>http://yottabytt.com/bytts/paper/identifying_multiple_topics/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/paper/bytt_1/</guid>
+      <guid>http://yottabytt.com/bytts/paper/identifying_multiple_topics/</guid>
       <description>Here  is the link to the actual paper.
 Good to know Lucene, Item-Based Collaborative Filtering, Document Similarity, Multi-label text classification.
 Gist Multiple topics are assigned to a document based on the topics of similar documents present in the corpus. The paper explains about various different approaches in the process of finding similar documents and in the selection of appropriate topics from the similar documents and assigning them to the input document.</description>
