@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on yottabytt</title>
-    <link>http://yottabytt.com/tags/</link>
+    <link>https://yottabytt.com/tags/</link>
     <description>Recent content in Tags on yottabytt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://yottabytt.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yottabytt.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Text Classification</title>
-      <link>http://yottabytt.com/tags/text-classification/</link>
+      <link>https://yottabytt.com/tags/text-classification/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/tags/text-classification/</guid>
+      <guid>https://yottabytt.com/tags/text-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text Similarity</title>
-      <link>http://yottabytt.com/tags/text-similarity/</link>
+      <link>https://yottabytt.com/tags/text-similarity/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/tags/text-similarity/</guid>
+      <guid>https://yottabytt.com/tags/text-similarity/</guid>
       <description></description>
     </item>
     

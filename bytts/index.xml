@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bytts on yottabytt</title>
-    <link>http://yottabytt.com/bytts/</link>
+    <link>https://yottabytt.com/bytts/</link>
     <description>Recent content in Bytts on yottabytt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://yottabytt.com/bytts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yottabytt.com/bytts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ByBuC Bytt #2 - ByBuC Season 1 (ByBuC S1) Kickoff</title>
-      <link>http://yottabytt.com/bytts/bytt_bucket/first_season_kickoff/</link>
+      <link>https://yottabytt.com/bytts/bytt_bucket/first_season_kickoff/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/bytt_bucket/first_season_kickoff/</guid>
+      <guid>https://yottabytt.com/bytts/bytt_bucket/first_season_kickoff/</guid>
       <description>Hereby, I am declaring the ByBuC S1 challenge open. ByBuC S1 will have 4 episodes (which means S1 would run for 4 months). They are,
  Probabilistic programming (S1 E1 - Dec 2018) Multimedia programming (S1 E2 - Jan 2019) Numerical programming (S1 E3 - Feb 2019) Systems programming (S1 E4 - Mar 2019)  </description>
     </item>
     
     <item>
       <title>ByBuC Bytt #1 - Introducing the Bytt Bucket Challenge</title>
-      <link>http://yottabytt.com/bytts/bytt_bucket/introducing_the_challenge/</link>
+      <link>https://yottabytt.com/bytts/bytt_bucket/introducing_the_challenge/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/bytt_bucket/introducing_the_challenge/</guid>
+      <guid>https://yottabytt.com/bytts/bytt_bucket/introducing_the_challenge/</guid>
       <description>Execution matters more than just thinking of what to do and devising ambitious plans.
 I had a rough plan of doing something of this sort. But my laziness kept me postponing to do this. It&amp;rsquo;s now more than 1.5 years since I thought of doing something like this. I am not doing justice to my thoughts. End of the day, It&amp;rsquo;s all about competing with you and making yourself better.</description>
     </item>
     
     <item>
       <title>Topic Bytt #1 - Derivatives for backpropagation in a simple Logistic Regression Network</title>
-      <link>http://yottabytt.com/bytts/topic/simple_backprop_derivation/</link>
+      <link>https://yottabytt.com/bytts/topic/simple_backprop_derivation/</link>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/topic/simple_backprop_derivation/</guid>
+      <guid>https://yottabytt.com/bytts/topic/simple_backprop_derivation/</guid>
       <description>Assuming the readers to be aware of a logistic regression model, where-in,
  \( z = \boldsymbol w^T\boldsymbol x + b \) is the weighted sum of the input features, where, \(\boldsymbol x\) is the feature vector \([x_1,x_2 &amp;hellip; x_n]\), \(\boldsymbol w\) is the weight vector \([w_1,w_2&amp;hellip;w_n]\) corresponding to the input features and \(b\) is the bias value.
  \(\boldsymbol y\) is the actual output vector and \( \hat{\boldsymbol y} = a = \sigma(\boldsymbol z) = {1 \over (1+e^{-\boldsymbol z})}\) is the target output vector.</description>
@@ -44,10 +44,10 @@ I had a rough plan of doing something of this sort. But my laziness kept me post
     
     <item>
       <title>Paper Bytt #1 - Identifying Multiple Topics in Texts</title>
-      <link>http://yottabytt.com/bytts/paper/identifying_multiple_topics/</link>
+      <link>https://yottabytt.com/bytts/paper/identifying_multiple_topics/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/paper/identifying_multiple_topics/</guid>
+      <guid>https://yottabytt.com/bytts/paper/identifying_multiple_topics/</guid>
       <description>Here  is the link to the actual paper.
 Good to know Lucene, Item-Based Collaborative Filtering, Document Similarity, Multi-label text classification.
 Gist Multiple topics are assigned to a document based on the topics of similar documents present in the corpus. The paper explains about various different approaches in the process of finding similar documents and in the selection of appropriate topics from the similar documents and assigning them to the input document.</description>
@@ -55,30 +55,30 @@ Gist Multiple topics are assigned to a document based on the topics of similar d
     
     <item>
       <title>How the bytts are categorized ?</title>
-      <link>http://yottabytt.com/bytts/about/categorization_of_bytts/</link>
+      <link>https://yottabytt.com/bytts/about/categorization_of_bytts/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/about/categorization_of_bytts/</guid>
+      <guid>https://yottabytt.com/bytts/about/categorization_of_bytts/</guid>
       <description>As of now, I have planned to present four kinds of bytts. They are, 
  Paper Bytts - Brief summaries of my learnings after reading research papers. Code Bytts - Solution programs and experimentation programs to a wide variety of CS problems. Topic Bytts - Explanation of some of the topics in CS that I am interested in. Random Bytts - Things that are related to CS but does not fall in the above categories.</description>
     </item>
     
     <item>
       <title>Random Bytt #1 - Things to look for, while applying to a university for your Master&#39;s in Computer Science</title>
-      <link>http://yottabytt.com/bytts/random/applying_to_masters/</link>
+      <link>https://yottabytt.com/bytts/random/applying_to_masters/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/random/applying_to_masters/</guid>
+      <guid>https://yottabytt.com/bytts/random/applying_to_masters/</guid>
       <description>All of the below are my personal views.
 Of course, you could be present amongst the crowd who view the universities just by their rankings. I am not at all against the rankings of the universities. But one must understand the process involved in such rankings, the criteria considered in the course of ranking and so on. Few of the criteria, may not at all be applicable to you. So on choosing your list of universities, go a level above and look out for the criteria that you wish to be a part of your destination university.</description>
     </item>
     
     <item>
       <title>Transition from fool_01 to yottabytt !</title>
-      <link>http://yottabytt.com/bytts/about/transition_from_past/</link>
+      <link>https://yottabytt.com/bytts/about/transition_from_past/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://yottabytt.com/bytts/about/transition_from_past/</guid>
+      <guid>https://yottabytt.com/bytts/about/transition_from_past/</guid>
       <description>So, till this date (July 1, 2017), I was operating on the Internet as fool_01. fool_01 was the handle in all of my web profiles. A few days back, I planned to make a move to a new name which I could use uniformly across all the websites related to Computer Science and Programming on the Internet. Due to the domain name issues and few other reasons, from now on, I would be visible on the Internet as yottabytt.</description>
     </item>
     
