@@ -6,29 +6,21 @@
     <description>Recent content on yottabytt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yottabytt.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ByBuC Bytt #2 - ByBuC Season 1 (ByBuC S1) Kickoff</title>
-      <link>https://yottabytt.com/bytts/bytt_bucket/first_season_kickoff/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Topic Bytt #2 - How entropy got its formula? (Part I)</title>
+      <link>https://yottabytt.com/bytts/topic/entropy/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yottabytt.com/bytts/bytt_bucket/first_season_kickoff/</guid>
-      <description>Hereby, I am declaring the ByBuC S1 challenge open. ByBuC S1 will have 4 episodes (which means S1 would run for 4 months). They are,
- Probabilistic programming (S1 E1 - Dec 2018) Multimedia programming (S1 E2 - Jan 2019) Numerical programming (S1 E3 - Feb 2019) Systems programming (S1 E4 - Mar 2019)  </description>
-    </item>
-    
-    <item>
-      <title>ByBuC Bytt #1 - Introducing the Bytt Bucket Challenge</title>
-      <link>https://yottabytt.com/bytts/bytt_bucket/introducing_the_challenge/</link>
-      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yottabytt.com/bytts/bytt_bucket/introducing_the_challenge/</guid>
-      <description>Execution matters more than just thinking of what to do and devising ambitious plans.
-I had a rough plan of doing something of this sort. But my laziness kept me postponing to do this. It&amp;rsquo;s now more than 1.5 years since I thought of doing something like this. I am not doing justice to my thoughts. End of the day, It&amp;rsquo;s all about competing with you and making yourself better.</description>
+      <guid>https://yottabytt.com/bytts/topic/entropy/</guid>
+      <description>Cross-entropy is a measure that pops up at many places within machine learning. So, we should be aware of the the connection between entropy (Information theory) and product-rule (Probability theory).
+Let \(X\) be a discrete random variable and \(x_1, x_2, &amp;hellip;,x_m\) be the values (events) that \(X\) can take.
+Let&amp;rsquo;s look at a case of observing any \(x_i\).
+We are told that the probability of observing \(x_1\) is \(0.01\). Whereas, other \(x_j\) have high probabilities in the range \([0.</description>
     </item>
     
     <item>

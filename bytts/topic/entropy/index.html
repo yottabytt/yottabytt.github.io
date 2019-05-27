@@ -2,7 +2,6 @@
 <html lang="en-us">
 
 <head>
-	<meta name="generator" content="Hugo 0.40.1" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta name="HandheldFriendly" content="True">
@@ -12,7 +11,7 @@
 
 
 
-<meta property="twitter:title" content="yottabytt">
+<meta property="twitter:title" content="Topic Bytt #2 - How entropy got its formula? (Part I)">
 
     <meta property="twitter:card" content="summary">
 
@@ -21,7 +20,7 @@
 <title>
 
 
-    yottabytt
+     yottabytt - Topic Bytt #2 - How entropy got its formula? (Part I) 
 
 </title>
 
@@ -45,7 +44,7 @@ MathJax.Hub.Config({
 
 
 
-<link rel="canonical" href="https://yottabytt.com/">
+<link rel="canonical" href="https://yottabytt.com/bytts/topic/entropy/">
 
 
 <link rel="stylesheet" href="https://yottabytt.com/css/main.v1.0.0.css">
@@ -65,8 +64,6 @@ MathJax.Hub.Config({
 
 
 
-  <link href="https://yottabytt.com/index.xml" rel="alternate" type="application/rss+xml" title="yottabytt" />
-
 
 
 </head>
@@ -76,7 +73,7 @@ MathJax.Hub.Config({
 <body>
 
 
-<section class="header header-home">
+<section class="header">
 
     <div class="container">
         <a href="https://yottabytt.com/"><img class="logo" src="https://yottabytt.com/images/YBWhite.png" alt="logo" /></a>
@@ -108,71 +105,52 @@ MathJax.Hub.Config({
 <section class="main">
     <div class="container">
         <div class="content">
-            
-                <div class="markdown">
-                <p>Computer Science is an exciting area of study. I am curious about many of its domains. Some of them are Algorithms, Mathematics for Computer Science, Operating Systems, Parallel Computing, and Artificial Intelligence. A Bytt could be a writing that explains a topic, a brief summary of a research paper, a code snippet for a problem or random experiences that are related to Computer Science in one way or the other.</p>
+            <div class="page-heading">
 
-                </div>
-            
+    Topic Bytt #2 - How entropy got its formula? (Part I)
 
-            
-                <div class="posts">
+</div>
+
+            <div class="markdown">
                 
-                
-                    <div class="page-heading">Latest bytts</div>
-                    <ul>
-                    
-                        <li class="groupby">May, 2019</li>
-                        
-                            <li class="post-item">
-    <span class="meta">May 26, 2019</span>
-    <a href="https://yottabytt.com/bytts/topic/entropy/"><span>Topic Bytt #2 - How entropy got its formula? (Part I)</span></a>
-</li>
+    <p>Cross-entropy is a measure that pops up at many places within machine learning.
+So, we should be aware of the the connection between entropy (Information theory) and product-rule (Probability theory).</p>
 
-                        
-                    
-                        <li class="groupby">Aug, 2017</li>
-                        
-                            <li class="post-item">
-    <span class="meta">Aug 25, 2017</span>
-    <a href="https://yottabytt.com/bytts/topic/simple_backprop_derivation/"><span>Topic Bytt #1 - Derivatives for backpropagation in a simple Logistic Regression Network</span></a>
-</li>
+<p>Let \(X\) be a discrete random variable and \(x_1, x_2, &hellip;,x_m\) be the values (events) that \(X\) can take.</p>
 
-                        
-                    
-                        <li class="groupby">Jul, 2017</li>
-                        
-                            <li class="post-item">
-    <span class="meta">Jul 15, 2017</span>
-    <a href="https://yottabytt.com/bytts/paper/identifying_multiple_topics/"><span>Paper Bytt #1 - Identifying Multiple Topics in Texts</span></a>
-</li>
+<p>Let&rsquo;s look at a case of observing any \(x_i\).</p>
 
-                        
-                            <li class="post-item">
-    <span class="meta">Jul 2, 2017</span>
-    <a href="https://yottabytt.com/bytts/about/categorization_of_bytts/"><span>How the bytts are categorized ?</span></a>
-</li>
+<p>We are told that the probability of observing \(x_1\) is \(0.01\). Whereas, other \(x_j\) have high probabilities
+in the range \([0.2, 0.5]\).</p>
 
-                        
-                            <li class="post-item">
-    <span class="meta">Jul 2, 2017</span>
-    <a href="https://yottabytt.com/bytts/random/applying_to_masters/"><span>Random Bytt #1 - Things to look for, while applying to a university for your Master&#39;s in Computer Science</span></a>
-</li>
+<p>Assume we are in trial number \(3\). With the given information \(p(x_1)\), we expect that \(x_1\) might not be occuring. But to our surpise, it has occured.</p>
 
-                        
-                    
-                    </ul>
+<p>\(h(x)\) is a function that is now brought into picture to handle such surprises (information gains).</p>
 
-                    
-                        <a href="./bytts/" class="see-more">See more ...</a>
-                    
-                
-                </div>
-            
+<p>Let&rsquo;s say such a surprise has occured for two independent events \(X=x_1\) and \(X=x_2\). So, total gain \(h(x_1, x_2) = h(x_1) + h(x_2)\). By product-rule, we know that \(p(x_1, x_2) = p(x_1).p(x_2)\).</p>
 
-            <div class="best-posts">
-            
-            
+<p>As we might be knowing only \(p(x_i, x_j)\), we shall try to represent \(h(x_i, x_j)\) in terms of \(p(x_i, x_j)\).</p>
+
+<p>Think of some function \(f(x)\) such that, \(h(x_i, x_j) = f(p(x_i, x_j))\).</p>
+
+<p>Hint: \(log_b(u.v) = log_b(u) + log_b(v)\)</p>
+
+<p>So, something like the following may be good,<br />
+\(h(x_i, x_j) = log_b(p(x_i, x_j)) = log_b(p(x_i)) + log_b(p(x_j))\).</p>
+
+<p>Now, we shall just consider a single event \(x\), \(h(x) = log_b(p(x))\).</p>
+
+<p>Hold on, we know gains can be high when we observe a highly unlikely event like \(x_1\).
+Does, current \(h(x)\) capture it?</p>
+
+<p>\(h(x_1) = log_b(0.01) = -2 \), when \(b=10\)</p>
+
+<p>A gain represented by a positive number could look neat. So, why not<br />
+\(h(x) = - log_b(p(x))\)?</p>
+
+<p>It doesn&rsquo;t affect any of the preconditions. Thus, we have reached close to the actual formula of entropy.</p>
+
+
             </div>
         </div>
     </div>
@@ -238,5 +216,4 @@ MathJax.Hub.Config({
 
 </body>
 </html>
-
 
